@@ -1,0 +1,9 @@
+table, table th, td{
+  border-collapse: collapse;
+  border:solid 1px #aaaaaa;
+}
+
+table th{
+  color:yellow;
+  background-color: #FFCCCC;
+}
